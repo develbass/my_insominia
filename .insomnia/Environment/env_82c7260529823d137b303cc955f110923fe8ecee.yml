@@ -1,0 +1,30 @@
+_id: env_82c7260529823d137b303cc955f110923fe8ecee
+type: Environment
+parentId: wrk_dc8052979b104df69b1ed43636010595
+modified: 1672233155712
+created: 1672233020992
+name: Base Environment
+data:
+  "80": 192.168.28.125:80
+  "3000": 192.168.28.125:3000
+  "5000": 192.168.28.125:5000
+  "8000": 192.168.28.125:8000
+  ganhepremios-api: http://api.ganhepremios.com.br
+  egp: https://painel-votacao.herokuapp.com
+  hapio: https://eu-central-1.hapio.net/v1
+  gerencie: https://app.gerenciemeugabinete.com.br
+  colabore: https://app.colaborecidadao.com.br
+dataPropertyOrder:
+  "&":
+    - "80"
+    - "3000"
+    - "5000"
+    - "8000"
+    - ganhepremios-api
+    - egp
+    - hapio
+    - gerencie
+    - colabore
+color: null
+isPrivate: false
+metaSortKey: 1672233020992
