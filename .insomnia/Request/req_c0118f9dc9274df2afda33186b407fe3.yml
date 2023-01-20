@@ -1,0 +1,21 @@
+_id: req_c0118f9dc9274df2afda33186b407fe3
+type: Request
+parentId: fld_9ca20799e3644305b51e030b118bdd69
+modified: 1674150592751
+created: 1674138429403
+url: "{{ _.industria }}/api/eventos/17"
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1674138429403
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

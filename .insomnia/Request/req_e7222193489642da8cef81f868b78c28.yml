@@ -1,0 +1,28 @@
+_id: req_e7222193489642da8cef81f868b78c28
+type: Request
+parentId: fld_9ca20799e3644305b51e030b118bdd69
+modified: 1673617901960
+created: 1673354579803
+url: "{{ _[3000] }}/api/eventos/area-ingressos"
+name: area-ingressos
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"area_id": 7
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1673354579803
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

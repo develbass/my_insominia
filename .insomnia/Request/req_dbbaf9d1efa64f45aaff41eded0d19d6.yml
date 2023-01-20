@@ -1,0 +1,21 @@
+_id: req_dbbaf9d1efa64f45aaff41eded0d19d6
+type: Request
+parentId: fld_9ca20799e3644305b51e030b118bdd69
+modified: 1674050736537
+created: 1673956790810
+url: "{{ _[3000] }}/api/estado/all"
+name: estados
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1673956790810
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

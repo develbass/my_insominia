@@ -1,0 +1,28 @@
+_id: req_2d763732a6c042f8a522fc5cb3ab17ec
+type: Request
+parentId: fld_9ca20799e3644305b51e030b118bdd69
+modified: 1674160504185
+created: 1674158376211
+url: "{{ _[3000] }}/api/eventos/valida-qrcode"
+name: valida-qrcode
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"qrcode": "TE9URS0yMDtBVlVMU08tMTA="
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1674158376211
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
