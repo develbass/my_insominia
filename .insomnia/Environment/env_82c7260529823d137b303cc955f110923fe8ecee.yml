@@ -1,12 +1,12 @@
 _id: env_82c7260529823d137b303cc955f110923fe8ecee
 type: Environment
 parentId: wrk_dc8052979b104df69b1ed43636010595
-modified: 1672233155712
+modified: 1673956866484
 created: 1672233020992
 name: Base Environment
 data:
   "80": 192.168.28.125:80
-  "3000": 192.168.28.125:3000
+  "3000": 192.168.28.156:3000
   "5000": 192.168.28.125:5000
   "8000": 192.168.28.125:8000
   ganhepremios-api: http://api.ganhepremios.com.br
@@ -14,6 +14,7 @@ data:
   hapio: https://eu-central-1.hapio.net/v1
   gerencie: https://app.gerenciemeugabinete.com.br
   colabore: https://app.colaborecidadao.com.br
+  industria: https://industriadoingresso.herokuapp.com
 dataPropertyOrder:
   "&":
     - "80"
@@ -25,6 +26,7 @@ dataPropertyOrder:
     - hapio
     - gerencie
     - colabore
+    - industria
 color: null
 isPrivate: false
 metaSortKey: 1672233020992
